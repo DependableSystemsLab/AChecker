@@ -5,7 +5,7 @@ For more details about AChecker , please reference our paper published in ICSE 2
 Access Control Vulnerabilities](https://blogs.ubc.ca/dependablesystemslab/2022/12/08/achecker-statically-detecting-smart-contract-access-control-vulnerabilities)
 
 
-If you use eTainter, please cite this paper
+If you use AChecker, please cite this paper
 
  ```
 @inproceedings{ghaleb2023achecker,
