@@ -1,7 +1,7 @@
 # AChecker
 AChecker (Access Control Checker) is an automated static analysis tool for detecting access control vulnerabilities in Ethereum smart contracts.
 
-For more details about AChecker , please reference the paper published in ICSE 2023 [AChecker: Statically Detecting Smart Contract
+For more details about AChecker , please reference our paper published in ICSE 2023 [AChecker: Statically Detecting Smart Contract
 Access Control Vulnerabilities](https://blogs.ubc.ca/dependablesystemslab/2022/12/08/achecker-statically-detecting-smart-contract-access-control-vulnerabilities)
 
 
