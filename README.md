@@ -1,11 +1,11 @@
 # AChecker
 AChecker (Access Control Checker) is an automated static analysis tool for detecting access control vulnerabilities in Ethereum smart contracts.
 
-For more details about AChecker , please reference our paper published in ICSE 2023 [AChecker: Statically Detecting Smart Contract
+For more details about AChecker, please reference our paper published in ICSE 2023 [AChecker: Statically Detecting Smart Contract
 Access Control Vulnerabilities](https://blogs.ubc.ca/dependablesystemslab/2022/12/08/achecker-statically-detecting-smart-contract-access-control-vulnerabilities)
 
 
-If you use AChecker, please cite this paper
+If you use AChecker, please cite this paper.
 
  ```
 @inproceedings{ghaleb2023achecker,
@@ -24,9 +24,9 @@ If you use AChecker, please cite this paper
 
 ### Building AChecker 
 
-To build the tool manually, we provide a `requirements.txt` file and the script `setup.py` to simply install depedencies required by AChecker and to build everything as follows.
+To build the tool manually, we provide a `requirements.txt` file and the script `setup.py` to simply install the dependencies AChecker requires and build everything as follows.
 
-Run the following command. Please make sure you are using python 3.8 or higher.
+Run the following command. Please make sure you are using Python 3.8 or higher.
   
 ```
 cd AChecker
@@ -43,7 +43,7 @@ As an example, the following command will run AChecker to analyze the contract w
 python bin/achecker.py -f CVE-2021-34273.code -b -m 8
 ```
 
-The option -m enables to set the allocated memory for the analysis (in gigabytes). In this example, the allocated memory limit is set to 8 GB. The defalut value is 6 GB when the option -m is not used.
+The option -m enables setting the allocated memory for the analysis (in gigabytes). In this example, the allocated memory limit is set to 8 GB. The default value is 6 GB when the option -m is not used.
 
 ## Contact
-For questions about our paper or this code, please contact Asem Ghaleb (aghaleb@alumni.ubc.ca)
+For questions about our paper or this code, please get in touch with Asem Ghaleb (aghaleb@alumni.ubc.ca)
