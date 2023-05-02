@@ -17,7 +17,7 @@ If you use AChecker, please cite this paper.
   ```
 
 ## Getting Started
-**Note:** We tested all scripts provided in this package on a Ubuntu 20.04 LTS machine.
+**Note:** We tested all scripts provided in this package on an Ubuntu 20.04 LTS machine.
 
 ### Requirements
 * Python 3.8+
